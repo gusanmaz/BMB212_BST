@@ -49,7 +49,7 @@ public class BST {
             return;
         }
         InOrder(node.left);
-        System.out.println(node.val);
+        System.out.print(" " + node.val + " ");
         InOrder(node.right);
     }
 
