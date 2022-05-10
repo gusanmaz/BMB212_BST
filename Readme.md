@@ -173,7 +173,7 @@ public class Main {
 ### Proje Aciklamalari
 
 * Projede size verilen `TreeNode.java` `BST.java` ve `Main.java` dosyalarini inceleyiniz ve yorum satirlarini dikkatle okuyunuz. `TreeNode.java` `BST.java` dosyalarina yorum satirlarinda istenilen degisikleri uygulayaniz. `Main.java` dosyasi oldugu gibi kalabilir veya degistirilebilir. Projenizin derlenmesinde sorun yaratmadigi muddetce `Main.java` uzerinde istediginiz degisikligi yapabilirsiniz. 
-* BST sinifi ikili arama agaci verilerini uzerinde calisabilmek icin yazilmistir. Ne var ki TreeNode sinifinin degisken uyeleri public tanimlandigi icin BST sinifi kullanilarak ikili arama agaci ozelligi tasimayan ikili agaclar olusturulabilmektedir. Bu durumun iki farkli ornegi Main.java icindeki kodlar incelenerek gorulebilir. BST sinifinda kodlamaniz istenen IsBST metodu BST sinifindan olusturulan bir objede saklanana ikili agacin ikili arama agaci olup olmadigini kontrol etmektedir. 
+* BST sinifi ikili arama agaci verilerini uzerinde calisabilmek icin yazilmistir. Ne var ki TreeNode sinifinin degisken uyeleri public tanimlandigi icin BST sinifi kullanilarak ikili arama agaci ozelligi tasimayan ikili agaclar olusturulabilmektedir. Bu durumun iki farkli ornegi Main.java icindeki kodlar incelenerek gorulebilir. BST sinifinda kodlamaniz istenen `IsBST()` metodu BST sinifindan olusturulan bir objede saklanana ikili agacin ikili arama agaci olup olmadigini kontrol etmektedir. 
 
 ### Projenin Derlenmesi
 
