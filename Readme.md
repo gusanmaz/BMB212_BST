@@ -1,4 +1,4 @@
-Size hazir verilen TreeNode.java dosyasinin icerigi asagidaki gibidir.
+Size hazir verilen `TreeNode.java` dosyasinin icerigi asagidaki gibidir.
 
 ```java
 public class TreeNode {
@@ -17,7 +17,7 @@ public class TreeNode {
 }
 ```
 
-Size verilen BST.java dosyasinin icerigi asagidaki gibidir.
+Size verilen `BST.java` dosyasinin icerigi asagidaki gibidir.
 
 ```java
 public class BST {
@@ -102,7 +102,7 @@ public class BST {
 }
 ```
 
-Size verilen Main.java dosyasinin icerigi asagidaki gibidir.
+Size verilen `Main.java` dosyasinin icerigi asagidaki gibidir.
 
 ```java
 public class Main {
